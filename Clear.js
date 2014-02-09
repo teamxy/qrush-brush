@@ -6,5 +6,5 @@ var onDrag = function (x, y) {
 
 var onRelease = function (x, y) {
 	setPreview(false);
-	rect(0, 0, 1000, 1000, 0xff999999, true);
+	rect(0, 0, getCanvasWidth(), getCanvasHeight(), 0xff999999, true);
 }
