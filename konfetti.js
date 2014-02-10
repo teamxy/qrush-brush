@@ -1,7 +1,7 @@
 var color = {r:200,g:30,b:30, a:155};
 var size = 10;
 var thickness = 5;
-var box_size = 2;
+var box_size = 10;
 
 var colors = [
 {r:0,g:200,b:0, a:255},
