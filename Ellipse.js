@@ -1,4 +1,4 @@
-var color = 0xffffffff;
+var color = 0x30000066;
 var preColor = 0xff333333;
 
 var x0 = 0;
